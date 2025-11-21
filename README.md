@@ -36,9 +36,10 @@
 ### 📌 Small Projects I’ve Worked On
 | Project | Type | Tech |
 |--------|------|------|
-| 🛒 Simple Store API | Basic backend store with products/users | Node.js + Express |
+| 🛒 🛍️ Full E-Commerce Web App | Complete store with users, admin panel,products, cart, and authentication | Node.js + Express + MongoDB +Angular|
+| 🚀 NASA Mars Exploration Dashboard | Fetches real-time Mars rover photos and data from NASA API | **Angular + NASA REST API** |
 | 🔐 Login & Register | Basic authentication with hashing | Express + MongoDB |
-| 🎨 Portfolio Page | Responsive front-end page | HTML + CSS + JS |
+| 🎨  Responsive Restaurant Menu Web App | Responsive front-end page | HTML + CSS + JS |
 
 ---
 
